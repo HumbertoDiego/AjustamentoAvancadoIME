@@ -40,3 +40,4 @@ git init
 git remote add ajustamento https://github.com/HumbertoDiego/AjustamentoAvancadoIME
 git add * ; git commit -m "aula update"; git push ajustamento main --force
 -->
+
