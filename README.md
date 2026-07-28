@@ -22,7 +22,7 @@ Aulas de Ajustamento Avançado (Inverse Problems) ministradas para o 3º ano do 
 ## REQUISITOS:
 
 - [Python 3.12](https://www.python.org/downloads/)
-- [Colab]
+- [Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 - [VS Code](https://code.visualstudio.com/) e [Extensão Jupyter do VS Code](https://marketplace.visualstudio.com/search?term=jupyter&target=VSCode&category=All%20categories&sortBy=Relevance)
 
 No Windows PowerShell, macOS e Linux (Colab):
