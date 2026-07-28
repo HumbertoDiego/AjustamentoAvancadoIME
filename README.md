@@ -6,14 +6,14 @@ Aulas de Ajustamento Avançado ministradas para o 4º ano do Curso de Engenharia
 
 ## SUMÁRIO:
 
-- [Aula 1](https://github.com/HumbertoDiego/AjustamentoAvancadoIME/blob/main/01_revisao_ajustamento_basico.ipynb): Revisão de Ajustamento Básico — MMQ, modelos paramétrico, condicionado e combinado e qualidade pós-ajustamento.
-- [Aula 2](https://github.com/HumbertoDiego/AjustamentoAvancadoIME/blob/main/02_ajustamento_com_injuncoes.ipynb): Ajustamento com Injunções — modelos combinado e paramétrico com injunções. **1ª VE prática.**
-- [Aula 3](https://github.com/HumbertoDiego/AjustamentoAvancadoIME/blob/main/03_deteccao_de_outliers.ipynb): Detecção de Outliers — data snooping, teste de Baarda, ajuste robusto e comparação L1/L2. **2ª VE prática.**
-- [Aula 4](https://github.com/HumbertoDiego/AjustamentoAvancadoIME/blob/main/04_series_temporais.ipynb): Séries Temporais — tendência, sazonalidade, ruído e modelagem. **3ª VE prática.**
-- [Aula 5](https://github.com/HumbertoDiego/AjustamentoAvancadoIME/blob/main/05_regularizacao.ipynb): Regularização — TSVD e Tikhonov. **4ª VE prática.**
-- [Aula 6](https://github.com/HumbertoDiego/AjustamentoAvancadoIME/blob/main/06_otimizacao.ipynb): Otimização — função objetivo, métodos diretos, gradiente e lotes. **5ª VE prática.**
-- Aula 7: Avaliação escrita. **6ª VE escrita.**
-- Aulas 8-12:  Problemas e estudos de caso. **7ª VE apresentação oral.**
+- [Aula 1](https://github.com/HumbertoDiego/AjustamentoAvancadoIME/blob/main/01_revisao_ajustamento_basico.ipynb): Revisão de Ajustamento Básico (MMQ, modelos paramétrico, condicionado e combinado e qualidade pós-ajustamento).
+- [Aula 2](https://github.com/HumbertoDiego/AjustamentoAvancadoIME/blob/main/02_ajustamento_com_injuncoes.ipynb): Ajustamento com Injunções (modelos combinado e paramétrico com injunções). **1ª VE prática.**
+- [Aula 3](https://github.com/HumbertoDiego/AjustamentoAvancadoIME/blob/main/03_deteccao_de_outliers.ipynb): Detecção de Outliers (data snooping, teste de Baarda, ajuste robusto e comparação L1/L2). **2ª VE prática.**
+- [Aula 4](https://github.com/HumbertoDiego/AjustamentoAvancadoIME/blob/main/04_series_temporais.ipynb): Séries Temporais (tendência, sazonalidade, ruído e modelagem). **3ª VE prática.**
+- [Aula 5](https://github.com/HumbertoDiego/AjustamentoAvancadoIME/blob/main/05_regularizacao.ipynb): Regularização (TSVD e Tikhonov). **4ª VE prática.**
+- [Aula 6](https://github.com/HumbertoDiego/AjustamentoAvancadoIME/blob/main/06_otimizacao.ipynb): Otimização (função objetivo, métodos diretos, gradiente e ajustamento em lotes). **5ª VE prática.**
+- Aula 7: **6ª VE escrita.**
+- Aulas 8-12: Problemas e estudos de caso. **7ª VE apresentação oral.**
 
 ## REQUISITOS:
 
