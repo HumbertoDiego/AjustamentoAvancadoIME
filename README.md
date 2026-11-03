@@ -35,6 +35,7 @@ jupyter nbconvert --to slides 05_cond_sistemas.ipynb --TagRemovePreprocessor.rem
 reset
 git init
 git remote add ajustamento https://github.com/HumbertoDiego/AjustamentoAvancadoIME
+git branch --set-upstream-to=ajustamento/main
 git add * ; git commit -m "aula 01 update"; git push ajustamento main --force
 -->
 
